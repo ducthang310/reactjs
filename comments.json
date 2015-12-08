@@ -1,4 +1,4 @@
 [
-  {"author": "quay quay", "text": "This is one comment"},
-  {"author": "Jordan fap", "text": "This is *another* comment"}
+  {"id": 1, "author": "Fa quay", "text": "This is one comment"},
+  {"id": 2, "author": "Jordan fap", "text": "This is *another* comment"}
 ]
